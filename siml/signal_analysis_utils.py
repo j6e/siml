@@ -2,7 +2,6 @@ import numpy as np
 
 from scipy.signal import welch
 from scipy.fftpack import fft
-from scipy import signal
 
 from siml.detect_peaks import detect_peaks
 
